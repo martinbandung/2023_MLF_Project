@@ -9,5 +9,5 @@ The project will explore some aspect mainly in data preprocessing and classifier
 
 ## Higlighted Result
 Based on the analysis, the best combination of variables is var8_woe, var4, and var5. This combination has a precision score of 0.958, indicating that 95.8% of loans that the model predicts as good are actually good loans. The F1 score of 0.9595, which is the harmonic mean of precision and recall, provides a combined measure of precision and recall for the model.
-![Confusion Matrice](https://github.com/martinbandung/2023_MLF_Project/blob/main/code/images/choose/20230501_conmat_mean_DT_upsample_stdscl_var8_woe_var4_var5.png)
-![TPR vs FPR](https://github.com/martinbandung/2023_MLF_Project/blob/main/code/images/choose/20230501_TPRvsVPR_mean_DT_upsample_stdscl_var8_woe_var4_var5.png.png)
+![Confusion Matrice](https://github.com/martinbandung/2023_MLF_Project/blob/main/images/choose/20230501_conmat_mean_DT_upsample_stdscl_var8_woe_var4_var5.png)
+![TPR vs FPR](https://github.com/martinbandung/2023_MLF_Project/blob/main/images/choose/20230501_TPRvsVPR_mean_DT_upsample_stdscl_var8_woe_var4_var5.png)
